@@ -9,7 +9,6 @@ I have worked with technologies such as Snowflake, Keboola, Azure and GCP.
 Throughout projects, I cover the full solution lifecycle — from requirements analysis and model design
 to application development and production deployment.
 
-<br clear="right">
 ---
 
 ## 💼 Work Experience
