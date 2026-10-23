@@ -1,3 +1,5 @@
+---
+
 ## 👤 About me
 
 I'm a Data Scientist with experience in machine learning, predictive analytics, time series forecasting and generative AI.
