@@ -74,7 +74,7 @@ Hands-on notebooks and mini-projects, organized by topic:
 
 ## 🎓 Education
 
-- **Master's degree in Mechanical Engineering** — Brno University of Technology, 2024
+- **Master's degree in Mechanical Engineering** — Brno University of Technology
 
 ## 🌍 Spoken Languages
 
