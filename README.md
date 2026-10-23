@@ -1,5 +1,4 @@
-# Martin Bílek
-### Data Scientist · Time Series Forecasting · Generative AI
+## About me
 
 I'm a Data Scientist with experience in machine learning, predictive analytics, time series forecasting and generative AI.
 I have delivered data-driven and AI solutions across the **banking, automotive and logistics** sectors.
@@ -9,10 +8,6 @@ I have worked with technologies such as Snowflake, Keboola, Azure and GCP.
 
 Throughout projects, I cover the full solution lifecycle — from requirements analysis and model design
 to application development and production deployment.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-bilek48/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martin.bilek48@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?logo=github&logoColor=white)](https://github.com/martincho48/Portfolio)
 
 <br clear="right">
 
