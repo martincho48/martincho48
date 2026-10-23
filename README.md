@@ -1,4 +1,4 @@
-## About me
+## 👤 About me
 
 I'm a Data Scientist with experience in machine learning, predictive analytics, time series forecasting and generative AI.
 I have delivered data-driven and AI solutions across the **banking, automotive and logistics** sectors.
@@ -10,7 +10,6 @@ Throughout projects, I cover the full solution lifecycle — from requirements a
 to application development and production deployment.
 
 <br clear="right">
-
 ---
 
 ## 💼 Work Experience
