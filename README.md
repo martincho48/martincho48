@@ -57,9 +57,13 @@ Hands-on notebooks and mini-projects, organized by topic:
 | 🤖 Machine Learning | 📈 Time Series & Stats | 🧠 Deep Learning & AI | 🗄️ Data Engineering & BI |
 |---|---|---|---|
 | [Regression](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression_Econometrics) | [Time Series](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series) (sktime, PyCaret, LSTM) | [CNN – Digit Recognizer](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision/Digit_Recognizer-CV) | [ETL & APIs](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL) |
-| [Classification](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification) | [ARIMA / SARIMA + Docker](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Series/Portland%20Oregon%20Ridership-ARIMA-SARIMA) | [Neural Networks + Optuna](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification/Titanic-Classification-Neural%20Networks-Optuna) | [Database Systems](https://github.com/martincho48/Portfolio/tree/master/Database_Systems) |
-| [Clustering](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Clustering) | [Econometrics](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Regression_Econometrics) | [Computer Vision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision) | [Power BI](https://github.com/martincho48/Portfolio/tree/master/PowerBI) |
-  [NLP](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/NLP) | [Pandas & Matplotlib](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib) |
+| [Classification](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification) | [ARIMA / SARIMA +
+Docker](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Time_Serihip-ARIMA-SARIMA) | [Neural Networks +Optuna](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Classification/Titanic-Classification-Neural%20Networks-Optuna) | [Database
+Systems](https://github.com/martincho48/Portfolio/tree/master/Database_Systems) |
+| [Clustering](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Clustering) |
+[Econometrics](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ReputerVision](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Computer%20Vision) | [Power BI](https://github.com/martincho48/Portfolio/tree/master/PowerBI) |
+| [Matrix Factorization – Book Recommender](https://github.com/martincho48/book_recommeMatplotlib](https://github.com/martincho48/Portfolio/tree/master/Python/Counting_Profit-Pandas-Matplotlib) |
+| [NLP](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/NLP) | |
 | [ML Methods](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ML%20Methods) | | | |
 
 ---
