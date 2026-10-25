@@ -32,7 +32,7 @@ to application development and production deployment.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Book Recommendation System](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/Matrix_Factorization/Book%20Recommendation%20System)** · [▶ live](https://getprediction-vtm5dloeea-lm.a.run.app/) | Add books you like and get similar ones recommended. Matrix-factorization model served via Flask, containerized and deployed on Cloud Run. | `Python` `Flask` `Docker` `GCP` `HTML/CSS` |
+| **[Book Recommender](https://github.com/martincho48/book_recommender)** · [▶ live](https://book-recommender-bfwqj6zvfq-ew.a.run.app) | Pick a book or an author and get similar books based on 6M Goodreads ratings. Four models compared (popularity, item-item, ALS, two-tower neural network) – item-item won and powers the app. Data pipeline with genres from reader tags, translated descriptions and author info from Wikipedia. Streamlit app on Cloud Run, deployed by GitHub Actions with keyless login and cost limits. | `Python` `pandas` `PyTorch` `Streamlit` `Docker` `GitHub Actions` `GCP Cloud Run` |
 | **[Azure ETL Pipeline for Upcoming Films](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL/azure_pipeline_films)** | Monthly pipeline that scrapes a public film database, processes the data with PySpark and refreshes a dashboard — fully in Azure. | `PySpark` `Databricks` `Data Factory` `Data Lake` `Key Vault` |
 
 ---
