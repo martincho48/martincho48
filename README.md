@@ -33,7 +33,7 @@ to application development and production deployment.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Book Recommender](https://github.com/martincho48/book_recommender)** · [▶ live](https://book-recommender-bfwqj6zvfq-ew.a.run.app) | Pick a book or an author and get similar books based on 6M Goodreads ratings. Four models compared (popularity, item-item, ALS, two-tower neural network) – item-item won and powers the app. Data pipeline with genres from reader tags, translated descriptions and author info from Wikipedia. Streamlit app on Cloud Run, deployed by GitHub Actions with keyless login and cost limits. | `Python` `pandas` `PyTorch` `Streamlit` `Docker` `GitHub Actions` `GCP Cloud Run` |
-| **[Azure ETL Pipeline for Upcoming Films](https://github.com/martincho48/Portfolio/tree/master/Machine_Learning/ETL/azure_pipeline_films)** | Monthly pipeline that scrapes a public film database, processes the data with PySpark and refreshes a dashboard — fully in Azure. | `PySpark` `Databricks` `Data Factory` `Data Lake` `Key Vault` |
+| **[Film Data Pipeline & AI Agent on GCP](https://github.com/martincho48/films)** | Scrapes the TMDB film database on a regular basis into Cloud Storage and BigQuery, with a Streamlit app where a Gemini agent answers questions about films by calling SQL tools (function calling). | `Python` `Cloud Run` `BigQuery` `Cloud Storage` `Vertex AI` `Gemini` `Streamlit` |
 
 ---
 
