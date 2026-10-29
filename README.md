@@ -21,7 +21,7 @@ to application development and production deployment.
 **Data Scientist** · Revolt BI · *Apr 2025 – Mar 2026 (1 yr)*<br>
 `Python` `SQL (Snowflake)` `Databricks` `Keboola` `GCP` `Power BI`
 
-**Data Scientist / Analyst** · Česká pošta – Balíkovna · *Apr 2022 – Mar 2025 (3 yrs)*<br>
+**Data Scientist / Analyst** · Balíkovna · *Apr 2022 – Mar 2025 (3 yrs)*<br>
 `Python` `Power BI` `IBM Cognos Analytics`
 
 ---
